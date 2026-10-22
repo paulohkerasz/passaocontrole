@@ -1,2 +1,13 @@
-# passaocontrole
-"Passa o Controle!" é uma plataforma desktop desenvolvida em C# que transforma a experiência de jogar com amigos em um desafio colaborativo. O aplicativo introduz uma dinâmica de troca periódica de jogos combinada com metas de engajamento em tempo real.
+#  Passa O Controle! — O Novo Modo de Jogar com Amigos
+
+> O **Passa O Controle!** é um aplicativo desktop e serviço de gamificação desenvolvido em **C# / .NET** que redefine como amigos recomendam e jogam novos títulos. Inspirado em plataformas como a Steam, ele organiza rodízios periódicos (estilo "Amigo Secreto") onde cada participante ganha uma indicação de jogo e precisa cumprir requisitos mínimos de *gameplay* para passar o controle adiante.
+
+- [Contribuição e Licença](#-contribuição-e-licença)
+
+## 📄 Contribuição e Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+*Desenvolvido como projeto de portfólio FrontEnd por [Paulo Henrique](https://github.com/paulohkerasz) e BackEnd por [João Vitor](https://github.com/joaorpontes)*
