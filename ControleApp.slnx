@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ControleApp.Client/ControleApp.Client.csproj" />
+  <Project Path="ControleApp/ControleApp.csproj" />
+</Solution>
