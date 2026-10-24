@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\ControleApp.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\ControleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\ControleApp.Client.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\ControleApp.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\ControleApp.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\ControleApp.Client.csproj",
         "projectName": "ControleApp.Client",
-        "projectPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\ControleApp.Client.csproj",
-        "packagesPath": "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\ControleApp.Client.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\João Vitor Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -55,7 +55,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.13, )",
+              "version": "[10.0.12, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
@@ -65,13 +65,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.13, )",
+              "version": "[10.0.12, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.13, )",
+              "version": "[10.0.12, )",
               "autoReferenced": true
             }
           },
@@ -89,7 +89,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[10.0.13, 10.0.13]"
+              "version": "[10.0.12, 10.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -380,20 +380,20 @@
         }
       }
     },
-    "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\ControleApp.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\ControleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\ControleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\ControleApp.csproj",
         "projectName": "ControleApp",
-        "projectPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\ControleApp.csproj",
-        "packagesPath": "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\ControleApp.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\João Vitor Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -409,8 +409,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\ControleApp.Client.csproj": {
-                "projectPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\ControleApp.Client.csproj"
+              "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\ControleApp.Client.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\ControleApp.Client.csproj"
               }
             }
           }
@@ -435,7 +435,7 @@
             "Microsoft.AspNetCore.App.Internal.Assets": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.13, )",
+              "version": "[10.0.12, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
@@ -462,7 +462,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

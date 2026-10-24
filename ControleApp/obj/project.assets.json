@@ -2,7 +2,7 @@
   "version": 4,
   "targets": {
     "net10.0": {
-      "Microsoft.AspNetCore.App.Internal.Assets/10.0.13": {
+      "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.App.Internal.Assets.props": {},
@@ -82,10 +82,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.App.Internal.Assets/10.0.13": {
-      "sha512": "Y2cXnMnqht5fvja2H8kkr5WA2fYItIPwXiBVo83+/9oySuKZCrz4T+yyZRFtLpxxDScvtYDt7e+J0eNElJ+AiA==",
+    "Microsoft.AspNetCore.App.Internal.Assets/10.0.12": {
+      "sha512": "+sIBo9AMBZH46qHWHQdfzcGMt+RuBaPYrUMOAM9VjA7MQ9QtIez3lq1C3E05+Yroa94KKt3DSWaxmCI4H28a9Q==",
       "type": "package",
-      "path": "microsoft.aspnetcore.app.internal.assets/10.0.13",
+      "path": "microsoft.aspnetcore.app.internal.assets/10.0.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -101,7 +101,7 @@
         "build/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets",
         "buildTransitive/Microsoft.AspNetCore.App.Internal.Assets.targets",
-        "microsoft.aspnetcore.app.internal.assets.10.0.13.nupkg.sha512",
+        "microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
     },
@@ -176,28 +176,28 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "ControleApp.Client >= 1.0.0",
-      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.13",
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.12",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 10.0.13"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\ControleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\ControleApp.csproj",
       "projectName": "ControleApp",
-      "projectPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\ControleApp.csproj",
-      "packagesPath": "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\ControleApp.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\João Vitor Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -213,8 +213,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\ControleApp.Client.csproj": {
-              "projectPath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp.Client\\ControleApp.Client.csproj"
+            "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\ControleApp.Client.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp.Client\\ControleApp.Client.csproj"
             }
           }
         }
@@ -239,7 +239,7 @@
           "Microsoft.AspNetCore.App.Internal.Assets": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[10.0.13, )",
+            "version": "[10.0.12, )",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.Components.WebAssembly.Server": {
@@ -266,7 +266,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

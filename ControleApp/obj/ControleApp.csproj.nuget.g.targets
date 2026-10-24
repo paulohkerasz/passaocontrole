@@ -2,6 +2,6 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.server\10.0.13\build\Microsoft.AspNetCore.Components.WebAssembly.Server.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.server\10.0.13\build\Microsoft.AspNetCore.Components.WebAssembly.Server.targets')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.app.internal.assets\10.0.13\buildTransitive\Microsoft.AspNetCore.App.Internal.Assets.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.app.internal.assets\10.0.13\buildTransitive\Microsoft.AspNetCore.App.Internal.Assets.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.app.internal.assets\10.0.12\buildTransitive\Microsoft.AspNetCore.App.Internal.Assets.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.app.internal.assets\10.0.12\buildTransitive\Microsoft.AspNetCore.App.Internal.Assets.targets')" />
   </ImportGroup>
 </Project>

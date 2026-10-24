@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h6fVOdF8w0E=",
+  "dgSpecHash": "34Btrs4rhuI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\João Vitor Rodrigues\\source\\repos\\ControleApp\\ControleApp\\ControleApp.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Projeto\\playertwo\\ControleApp\\ControleApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.13\\microsoft.aspnetcore.app.internal.assets.10.0.13.nupkg.sha512",
-    "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.13\\microsoft.aspnetcore.components.webassembly.10.0.13.nupkg.sha512",
-    "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\10.0.13\\microsoft.aspnetcore.components.webassembly.server.10.0.13.nupkg.sha512",
-    "C:\\Users\\João Vitor Rodrigues\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.13\\microsoft.jsinterop.webassembly.10.0.13.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.13\\microsoft.aspnetcore.components.webassembly.10.0.13.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\10.0.13\\microsoft.aspnetcore.components.webassembly.server.10.0.13.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.13\\microsoft.jsinterop.webassembly.10.0.13.nupkg.sha512"
   ],
   "logs": []
 }
